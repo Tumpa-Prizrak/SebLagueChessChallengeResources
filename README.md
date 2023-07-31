@@ -9,11 +9,11 @@ Lets you speed up the game's speed drastically. <br/>
 
 ### BetterUI
 https://github.com/Moonwalker316/Chess-Challenge-Better-UI/tree/main <br/>
-Adds win percentage and Elo calculation. <br/>
 Apparently also comes with Fast Foward button already inside. <br/>
 
 ## Guides
 
-### How to get your bot's ELO
-https://github.com/Tumpa-Prizrak/MyBot-Chess-Challenge/blob/main/Chess-Challenge/guides/elo.md <br/>
+### How to get your bot's ELO (2 tiers of ELO)
+[General guide and links to Tier 1 and Tier 2 bots to compare against)
+](https://github.com/Tumpa-Prizrak/MyBot-Chess-Challenge/blob/main/Chess-Challenge/guides/elo.md) <br/>
 Compare your bot with one of the two offered tiers.
