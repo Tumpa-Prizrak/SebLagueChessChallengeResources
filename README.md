@@ -9,5 +9,7 @@ Lets you speed up the game's speed drastically. <br/>
 
 ### BetterUI
 https://github.com/Moonwalker316/Chess-Challenge-Better-UI/tree/main <br/>
+Adds win percentage and Elo calculation. <br/>
 Apparently also comes with Fast Foward button already inside. <br/>
 
+## Guides
