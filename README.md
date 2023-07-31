@@ -19,3 +19,5 @@ Apparently also comes with Fast Foward button already inside. <br/>
 ### How to get your bot's ELO (2 tiers of ELO)
 [General guide and links to Tier 1 and Tier 2 bots to compare against
 ](https://github.com/Tumpa-Prizrak/MyBot-Chess-Challenge/blob/main/Chess-Challenge/guides/elo.md) <br/>
+### Helpful edits to the content of exported PGNs
+![Guides/editPGNOutput.md](Guides/editPGNOutput.md)
