@@ -2,6 +2,9 @@
 A common place for resources, that is links, tools, etc. helpful in any way for the mentioned challenge.
 
 ## Helpful links
+### Discord community
+https://discord.gg/pAadhun2px
+
 ### Fast Forward button
 https://github.com/GheorgheMorari/Chess-Challenge <br/>
 Lets you speed up the game's speed drastically. <br/>
