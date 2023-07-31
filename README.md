@@ -11,6 +11,9 @@ Lets you speed up the game's speed drastically. <br/>
 https://github.com/Moonwalker316/Chess-Challenge-Better-UI/tree/main <br/>
 Apparently also comes with Fast Foward button already inside. <br/>
 
-### How to get your bot's elo (2 different tiers of Elo
+## Guides
+
+### How to get your bot's ELO (2 tiers of ELO)
 [General guide and links to Tier 1 and Tier 2 bots to compare against)
-](https://github.com/Tumpa-Prizrak/MyBot-Chess-Challenge/blob/main/Chess-Challenge/guides/elo.md)
+](https://github.com/Tumpa-Prizrak/MyBot-Chess-Challenge/blob/main/Chess-Challenge/guides/elo.md) <br/>
+Compare your bot with one of the two offered tiers.
