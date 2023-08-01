@@ -18,7 +18,7 @@ int dist(int x, int y, int x2, int y2) => (int)Math.Sqrt(Math.Pow(Math.Abs(x - y
 ##
 Instead of storing evaluation or other values in a separate array, if it's used only once, you can return it like
 ```cs
-Array.Sort(
+Array.Sort( //use MinBy/MaxBy instead
 legalMoves.Select(x =>
         new Random().Next(3)
         - Math.Abs(x.StartSquare.Index - board.GetKingSquare(board.IsWhiteToMove).Index)*2
