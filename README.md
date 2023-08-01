@@ -21,3 +21,5 @@ Apparently also comes with Fast Foward button already inside. <br/>
 ](https://github.com/Tumpa-Prizrak/MyBot-Chess-Challenge/blob/main/Chess-Challenge/guides/elo.md) <br/>
 ### Helpful edits to the content of exported PGNs
 ![Guides/editPGNOutput.md](Guides/editPGNOutput.md)
+### Token Optimization tips
+![Guides/tokenOpt.md](Guides/tokenOpt.md)
