@@ -23,5 +23,7 @@ Apparently also comes with Fast Foward button already inside. <br/>
 ![Guides/editPGNOutput.md](Guides/editPGNOutput.md)
 ### Token Optimization tips
 ![Guides/tokenOpt.md](Guides/tokenOpt.md)
+### How to use different FENs/starting positions
+![Guides/fensGuide.md](Guides/fensGuide.md)
 ### How to add buttons for playing against different bots
 [How to add buttons for playing against different bots](https://github.com/SebLague/Chess-Challenge/discussions/239)
