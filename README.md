@@ -15,8 +15,8 @@ https://github.com/Moonwalker316/Chess-Challenge-Better-UI/tree/main <br/>
 Apparently also comes with Fast Foward button already inside. <br/>
 
 ### Fork with UCI implementation
-https://github.com/GediminasMasaitis/Chess-Challenge-Uci/tree/uci
-Compile the UCI project in VS solution and you're done.
+https://github.com/GediminasMasaitis/Chess-Challenge-Uci/tree/uci <br/>
+Compile the UCI project in VS solution and you're done. <br/>
 
 ## Guides
 
