@@ -19,7 +19,8 @@ https://github.com/GediminasMasaitis/Chess-Challenge-Uci/tree/uci <br/>
 Compile the UCI project in VS solution and you're done. <br/>
 
 ## Guides
-
+### How to test an engine for ELO gain using the UCI fork and Cutechess
+![How to test an engine for ELO gain using the UCI fork and Cutechess](https://github.com/GediminasMasaitis/Chess-Challenge-Uci/blob/uci/HOW-TO-TEST.md)
 ### How to get your bot's ELO (2 tiers of ELO)
 [General guide and links to Tier 1 and Tier 2 bots to compare against
 ](https://github.com/Tumpa-Prizrak/MyBot-Chess-Challenge/blob/main/Chess-Challenge/guides/elo.md) <br/>
@@ -31,5 +32,4 @@ Compile the UCI project in VS solution and you're done. <br/>
 ![Guides/tokenOpt.md](Guides/tokenOpt.md)
 ### How to use different FENs/starting positions
 ![Guides/fensGuide.md](Guides/fensGuide.md)
-### How to test an engine for ELO gain using the UCI fork and Cutechess
-![How to test an engine for ELO gain using the UCI fork and Cutechess](https://github.com/GediminasMasaitis/Chess-Challenge-Uci/blob/uci/HOW-TO-TEST.md)
+
